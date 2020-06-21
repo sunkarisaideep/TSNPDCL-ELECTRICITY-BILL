@@ -1,5 +1,5 @@
-# TSNPDCL-ELECTRICITY-BILL
-Due to Covid-19, TS govt denied to produce Electricity Bill for the Domestic and Industrial sectors, and tend to reproduce the Electricity Bill for period of three months with lots of flaws as seen.  Here is a Cmd based Application of calculating the "Telangana Electricity Bill -(TSNPDCL)" based on Present Tariff Rates only for the Domestic Sectors.
+# TSNPDCL-ELECTRICITY-BILL-PREDICTION
+Due to Covid-19, TS govt denied to produce Electricity Bill for the Domestic and Industrial sectors, and tend to reproduce the Electricity Bill for period of three months with lots of flaws as seen.  Here is a Cmd based Python Application of calculating the "Telangana Electricity Bill -(TSNPDCL)" based on Present Tariff Rates only for the Domestic Sectors.
 
 
 How to use TSNPDCL-Electricity-Bill cmd Application??
